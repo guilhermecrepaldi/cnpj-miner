@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dados públicos da Receita (grandes)
+data/cnpj_real.csv
+
+# Output gerado
+output/
+relatorio.md
+graficos/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

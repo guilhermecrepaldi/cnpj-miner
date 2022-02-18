@@ -1,0 +1,187 @@
+cnpj;razao_social;nome_fantasia;cnae_principal;natureza_juridica;porte;situacao_cadastral;data_abertura;uf;cidade;bairro;cep;capital_social
+11222333000101;Tech Solutions Brasil Ltda;TechSol BR;6202300;206-2;ME;Ativa;15/01/2020;SP;São Paulo;Itaim Bibi;04538000;250000.00
+22333444000102;Comercial Oliveira & Filhos Ltda;Oliveira Comércio;4711301;206-2;ME;Ativa;22/03/2018;SP;Campinas;Centro;13015000;180000.00
+33444555000103;Construtora Nova Era Eireli;Nova Era Construções;4120400;230-5;EPP;Ativa;10/06/2015;SP;Santos;Boqueirão;11010000;850000.00
+44555666000104;Agropecuária Boi Gordo S/A;Boi Gordo Agro;0151201;205-4;GRANDE;Ativa;05/09/1995;MT;Cuiabá;Centro Sul;78020000;15000000.00
+55666777000105;Doutor Saúde Serviços Médicos Ltda;Doutor Saúde;8630501;206-2;ME;Ativa;01/02/2021;RJ;Rio de Janeiro;Botafogo;22250040;300000.00
+66777888000106;Padaria Pão Quente MEI;Pão Quente;4721102;203-8;MEI;Ativa;12/04/2022;RJ;Niterói;Centro;24020001;5000.00
+77888999000107;Transportadora Carga Express Ltda;Carga Express;4930201;206-2;EPP;Ativa;03/08/2017;MG;Belo Horizonte;Lourdes;30180010;1200000.00
+88999000000108;Escola Futuro do Saber Ltda;Futuro do Saber;8512100;206-2;ME;Ativa;18/11/2019;MG;Uberlândia;Santa Maria;38408384;200000.00
+99000111000109;TechSoft Sistemas S/A;TechSoft;6202300;205-4;MEDIO;Ativa;14/06/2010;RS;Porto Alegre;Moinhos de Vento;90480100;8500000.00
+00111222000110;Mecânica Auto Forte Ltda;Auto Forte;4520001;206-2;MEI;Ativa;09/09/2023;RS;Caxias do Sul;Centro;95010000;40000.00
+11222333000111;Restaurante Sabor Caseiro Ltda;Sabor Caseiro;5611201;206-2;ME;Ativa;20/01/2022;BA;Salvador;Barra;40140010;120000.00
+22333444000112;Loja Tech Eletrônicos Ltda;Tech Eletro;4751201;206-2;ME;Ativa;07/05/2021;BA;Feira de Santana;Centro;44001000;160000.00
+33444555000113;Farmácia Popular do Brasil Ltda;Farmácia Popular;4771701;206-2;EPP;Ativa;11/03/2016;PE;Recife;Boa Viagem;51020010;950000.00
+44555666000114;Indústria Têxtil Nordeste S/A;Têxtil Nordeste;1311101;205-4;GRANDE;Ativa;02/07/1990;PE;Caruaru;Petrópolis;55010000;20000000.00
+55666777000115;Escritório Contábil Precisão Ltda;Contábil Precisão;6920601;206-2;MEI;Ativa;14/08/2022;CE;Fortaleza;Meireles;60150160;30000.00
+66777888000116;Construtora Planalto Eireli;Planalto Construções;4120400;230-5;EPP;Ativa;19/12/2014;DF;Brasília;Asa Sul;70040010;2000000.00
+77888999000117;Advocacia Oliveira Sociedade Simples;Oliveira Advocacia;6911701;204-6;ME;Ativa;05/04/2020;DF;Taguatinga;Taguatinga Centro;72010010;100000.00
+88999000000118;Supermercado Preço Bom Ltda;Preço Bom;4711102;206-2;EPP;Ativa;22/10/2013;PR;Curitiba;Batel;80240020;2500000.00
+99000111000119;Salão Beleza Pura MEI;Beleza Pura;9602501;203-8;MEI;Ativa;03/03/2023;PR;Londrina;Centro;86010020;10000.00
+00111222000120;Hospotal Vida Saúde Ltda;Vida Saúde;8610101;206-2;MEDIO;Ativa;17/06/2005;SC;Florianópolis;Centro;88015000;5000000.00
+11222333000121;Gráfica Rápida Ltda;Gráfica Rápida;1811301;206-2;ME;Ativa;30/09/2018;SC;Blumenau;Centro;89010010;180000.00
+22333444000122;Oficina Mecânica do João MEI;Mecânica do João;4520001;203-8;MEI;Ativa;11/01/2024;ES;Vitória;Centro;29010010;8000.00
+33444555000123;Corretora Seguros Proteção Ltda;Seguros Proteção;6629100;206-2;ME;Ativa;08/06/2021;ES;Vila Velha;Praia da Costa;29101010;220000.00
+44555666000124;Indústria de Móveis Rio Ltda;Móveis Rio;3101200;206-2;EPP;Ativa;25/02/2010;RJ;Nova Iguaçu;Centro;26010000;1500000.00
+55666777000125;Pastelaria do Centro MEI;Pastelaria Centro;5611202;203-8;MEI;Ativa;14/02/2023;SP;São Paulo;Sé;01001000;5000.00
+66777888000126;Laboratório Análises Clínicas Saúde Ltda;Lab Saúde;8640202;206-2;ME;Ativa;03/11/2020;MG;Juiz de Fora;Centro;36010000;350000.00
+77888999000127;Auto Peças Veloz Ltda;Veloz Auto Peças;4530703;206-2;ME;Ativa;19/07/2019;GO;Goiânia;Setor Oeste;74110010;190000.00
+88999000000128;Hotel Praia Bela Ltda;Hotel Praia Bela;5510801;206-2;ME;Ativa;02/01/2017;BA;Porto Seguro;Centro;45810000;450000.00
+99000111000129;Clínica Odontológica Sorriso Ltda;Sorriso Odonto;8630504;206-2;ME;Ativa;22/12/2021;RN;Natal;Ponta Negra;59020010;200000.00
+00111222000130;Empreiteira Norte Forte Ltda;Norte Forte;4292801;206-2;EPP;Ativa;14/04/2011;PA;Belém;Nazaré;66035010;1800000.00
+11222333000131;Mercadinho do Bairro Ltda;Mercadinho do Bairro;4712100;206-2;MEI;Ativa;05/05/2022;MA;São Luís;Calhau;65060010;25000.00
+22333444000132;Distribuidora Bebidas Tropical Ltda;Bebidas Tropical;4635401;206-2;EPP;Ativa;30/08/2012;PE;Jaboatão dos Guararapes;Piedade;54410010;2800000.00
+33444555000133;Academia Corpo Forte Ltda;Corpo Forte;9313100;206-2;ME;Ativa;16/01/2020;SP;Ribeirão Preto;Jardim Paulista;14020010;150000.00
+44555666000134;Cabelereira da Vânia MEI;Cabelo da Vânia;9602502;203-8;MEI;Ativa;01/09/2023;RJ;Duque de Caxias;Centro;25010010;5000.00
+55666777000135;Montadora de Veículos Brasil S/A;Montadora Brasil;2910701;205-4;GRANDE;Ativa;12/12/1985;SP;São Bernardo do Campo;Centro;09710010;50000000.00
+66777888000136;Fábrica de Sorvetes Gelado Bom Ltda;Gelado Bom;1053800;206-2;ME;Ativa;20/06/2020;SP;Sorocaba;Centro;18010010;280000.00
+77888999000137;E-commerce Digital Express Ltda;Digital Express;4790601;206-2;ME;Ativa;03/03/2021;MG;Belo Horizonte;Funcionários;30140030;320000.00
+88999000000138;Bar e Lanchonete do Zé MEI;Zé Lanches;5611203;203-8;MEI;Ativa;18/10/2022;BA;Ilhéus;Centro;45650010;5000.00
+99000111000139;Escritório Arquitetura Moderna Ltda;Arquitetura Moderna;7111100;206-2;ME;Ativa;07/07/2019;DF;Asa Norte;70070010;210000.00
+00111222000140;Transporte Urbano Cidade Ltda;Transporte Cidade;4922101;206-2;EPP;Ativa;25/11/2015;SP;Guarulhos;Centro;07110010;1200000.00
+11222333000141;Petshop Animal Feliz Ltda;Animal Feliz;4789002;206-2;MEI;Ativa;12/08/2022;PR;Maringá;Zona 1;87010010;15000.00
+22333444000142;Borracharia Pneus Novos MEI;Borracharia Pneus;4530705;203-8;MEI;Ativa;08/04/2024;RS;Pelotas;Centro;96010010;5000.00
+33444555000143;Indústria Plásticos Forte Ltda;Plásticos Forte;2229301;206-2;EPP;Ativa;14/09/2013;SC;Joinville;Centro;89201010;2500000.00
+44555666000144;Agência de Turismo Viaje Bem Ltda;Viaje Bem;7911200;206-2;ME;Ativa;19/11/2018;RJ;Rio de Janeiro;Copacabana;22020030;180000.00
+55666777000145;Posto Combustível Estrela Ltda;Posto Estrela;4681801;206-2;ME;Ativa;04/04/2017;MG;Contagem;Industrial;32210010;450000.00
+66777888000146;Marmoraria Granito Nobre Ltda;Granito Nobre;2391501;206-2;ME;Ativa;27/08/2020;ES;Cariacica;Campo Grande;29140010;300000.00
+77888999000147;Educação Infantil Primeiros Passos Ltda;Primeiros Passos;8512100;206-2;ME;Ativa;02/02/2021;PA;Ananindeua;Centro;67010010;120000.00
+88999000000148;Loja de Roupas Fashion MEI;Fashion Modas;4781400;203-8;MEI;Ativa;10/06/2023;PE;Olinda;Centro;53010010;5000.00
+99000111000149;Siderurgia Nacional S/A;Siderurgia Nacional;2412101;205-4;GRANDE;Ativa;20/01/1980;MG;Ipatinga;Centro;35160010;80000000.00
+00111222000150;Distribuidora Medicamentos Saúde Ltda;Distribui Saúde;4644301;206-2;EPP;Ativa;03/12/2009;SP;Barueri;Tamboré;06460010;3500000.00
+11222333000151;Serviço Limpeza ABC Ltda;ABC Limpeza;8121400;206-2;MEI;Ativa;15/01/2023;SP;Osasco;Centro;06010010;20000.00
+22333444000152;Churrascaria Gaúcha Tradicional Ltda;Gaúcha Churrascaria;5611201;206-2;ME;Ativa;12/03/2018;RS;Santa Maria;Centro;97010010;350000.00
+33444555000153;Livraria Saber Ltda;Livraria Saber;4761001;206-2;MEI;Ativa;18/10/2022;SP;São José dos Campos;Centro;12210010;25000.00
+44555666000154;Funerária Paz Eterna Ltda;Paz Eterna;9603301;206-2;ME;Ativa;09/05/2019;PR;Foz do Iguaçu;Centro;85850010;200000.00
+55666777000155;Fábrica de Móveis Planejados Ltda;Móveis Planejados;3101200;206-2;EPP;Ativa;01/07/2014;SC;Chapecó;Centro;89805010;1800000.00
+66777888000156;Lava Rápido Automotivo Ltda;Lava Rápido;4520005;206-2;MEI;Ativa;22/08/2023;GO;Aparecida de Goiânia;Centro;74910010;10000.00
+77888999000157;Imobiliária Casa Própria Ltda;Casa Própria Imóveis;6821801;206-2;ME;Ativa;04/12/2020;SP;Santos;Centro;11010010;280000.00
+88999000000158;Farmácia de Manipulação Natural Ltda;Natural Farmácia;4771701;206-2;ME;Ativa;17/04/2021;MG;Poços de Caldas;Centro;37701010;200000.00
+99000111000159;Transporte Escolar Seguro MEI;Transporte Escolar;4929901;203-8;MEI;Ativa;10/02/2024;RJ;Petrópolis;Centro;25610010;8000.00
+00111222000160;Tecnologia em Nuvem CloudData S/A;CloudData;6202300;205-4;MEDIO;Ativa;13/06/2012;SP;Campinas;Distrito Industrial;13054000;12000000.00
+11222333000161;Mercearia do Seu Manoel Ltda;Mercearia Manoel;4712100;206-2;MEI;Ativa;10/07/2022;BA;Vitória da Conquista;Centro;45010010;12000.00
+22333444000162;Usina Açucareira Doce Rio Ltda;Doce Rio Açúcar;1071600;206-2;GRANDE;Ativa;08/03/1992;AL;Maceió;Centro;57010010;25000000.00
+33444555000163;Oficina de Costura da Maria MEI;Costura da Maria;1412601;203-8;MEI;Ativa;01/11/2023;SP;Taubaté;Centro;12010010;5000.00
+44555666000164;Buffet Eventos Festa Linda Ltda;Festa Linda;5620101;206-2;ME;Ativa;27/05/2021;RJ;Niterói;Icaraí;24210010;150000.00
+55666777000165;Clinica Veterinária Animal Care Ltda;Animal Care;7500101;206-2;ME;Ativa;14/09/2022;SP;São Paulo;Vila Mariana;04018010;180000.00
+66777888000166;Indústria Calçados Andar Bem S/A;Andar Bem Calçados;1533501;205-4;MEDIO;Ativa;05/02/2000;RS;Novo Hamburgo;Centro;93310010;7500000.00
+77888999000167;Salão Festas Infantis Alegria Ltda;Alegria Festas;8230002;206-2;MEI;Ativa;19/12/2022;SC;Florianópolis;Trindade;88036000;20000.00
+88999000000168;Assistência Técnica EletroTech Ltda;EletroTech Assistência;9511800;206-2;MEI;Ativa;02/04/2023;BA;Lauro de Freitas;Centro;42700010;15000.00
+99000111000169;Fábrica de Chocolate Doce Sabor Ltda;Doce Sabor;1093701;206-2;ME;Ativa;11/06/2019;SP;Campinas;Cambuí;13024010;240000.00
+00111222000170;Corpo de Bombeiros Voluntários;Voluntários;8423000;306-9;MEDIO;Ativa;03/10/1988;SC;Itajaí;Centro;88301010;3000000.00
+11222333000171;Escritório Contabilidade Fácil Ltda;Contabilidade Fácil;6920601;206-2;ME;Ativa;22/08/2020;GO;Anápolis;Centro;75020010;85000.00
+22333444000172;Oficina Conserto Celular Tec MEI;Tec Celular;9511801;203-8;MEI;Ativa;07/05/2023;MG;Betim;Centro;32600010;5000.00
+33444555000173;Concessionária Veículos Nacional Ltda;Veículos Nacional;4511101;206-2;MEDIO;Ativa;14/01/1998;SP;São Paulo;Jardim Paulista;01452000;15000000.00
+44555666000174;Pizzaria Italiana Tradicional Ltda;Pizza Italiana;5611202;206-2;ME;Ativa;15/09/2021;SP;Ribeirão Preto;Centro;14010010;130000.00
+55666777000175;Agência Marketing Digital Cresce Ltda;Cresce Marketing;7319002;206-2;MEI;Ativa;01/03/2023;MG;Belo Horizonte;Savassi;30120010;30000.00
+66777888000176;Fazenda Boa Esperança Agropecuária Ltda;Fazenda Boa Esperança;0151201;206-2;GRANDE;Ativa;20/04/1995;MT;Rondonópolis;Centro;78700010;25000000.00
+77888999000177;Loja Material Construção Forte Ltda;Construção Forte;4744001;206-2;ME;Ativa;18/01/2020;PE;Paulista;Centro;53401010;220000.00
+88999000000178;Despachante Documentos Rápido Ltda;Documentos Rápido;8211300;206-2;MEI;Ativa;09/11/2022;SP;Guarujá;Centro;11410010;8000.00
+99000111000179;Sushibar Japão Gourmet Ltda;Japão Gourmet;5611202;206-2;ME;Ativa;25/07/2023;SP;São Paulo;Liberdade;01506000;95000.00
+00111222000180;Companhia Energética Solar Brasil S/A;Solar Energia;3511501;205-4;GRANDE;Ativa;02/09/2003;BA;Juazeiro;Centro;48904000;45000000.00
+11222333000181;Espaço Co-Working Trabalho Juntos Ltda;Trabalho Juntos;6821801;206-2;ME;Ativa;12/12/2021;RJ;Rio de Janeiro;Barra da Tijuca;22620010;320000.00
+22333444000182;Revenda Gás Popular Ltda;Gás Popular;4784900;206-2;MEI;Ativa;04/04/2022;CE;Caucaia;Centro;61600010;15000.00
+33444555000183;Indústria Bebidas Refrescante S/A;Refrescante Bebidas;1122401;205-4;GRANDE;Ativa;20/11/1987;PE;Jaboatão dos Guararapes;Centro;54310010;35000000.00
+44555666000184;Centro Estética Beleza Leve Ltda;Beleza Leve;9602501;206-2;MEI;Ativa;16/02/2022;DF;Ceilândia;Centro;72210010;10000.00
+55666777000185;Lojas Departamento Popular S/A;Popular Departamentos;4713000;205-4;GRANDE;Ativa;10/10/1992;SP;São Paulo;Centro;01001000;40000000.00
+66777888000186;Serraria Madeiras Nobre Ltda;Madeiras Nobre;1610202;206-2;ME;Ativa;28/08/2017;PA;Santarém;Centro;68005010;350000.00
+77888999000187;Agência Publicidade Criativa Ltda;Criativa Publicidade;7319001;206-2;ME;Ativa;06/01/2021;SP;São Paulo;Pinheiros;05424000;190000.00
+88999000000188;Lava Rápido e Borracharia Express MEI;Express Lava;4520005;203-8;MEI;Ativa;01/07/2023;MG;Uberaba;Centro;38010010;5000.00
+99000111000189;Hospital Regional Saúde Total Ltda;Saúde Total;8610101;206-2;MEDIO;Ativa;03/03/2006;PR;Londrina;Centro;86010010;6000000.00
+00111222000190;Comércio Material Escolar Letras Ltda;Letras Escolar;4761001;206-2;ME;Ativa;05/12/2020;SP;Jundiaí;Centro;13201010;120000.00
+11222333000191;Vidraçaria e Espelhos Brilhante Ltda;Vidraçaria Brilhante;2311701;206-2;MEI;Ativa;23/05/2022;RJ;Campos dos Goytacazes;Centro;28010010;20000.00
+22333444000192;Logística Entrega Rápida S/A;Entrega Rápida;5240902;205-4;MEDIO;Ativa;18/07/2008;SP;Guarulhos;Centro;07110010;9500000.00
+33444555000193;Doceria e Confeitaria Doce Arte Ltda;Doce Arte;1093701;206-2;MEI;Ativa;13/10/2023;RJ;Rio de Janeiro;Tijuca;20510010;8000.00
+44555666000194;Mineração Vale do Rio Ltda;Vale Mineração;7103100;206-2;GRANDE;Ativa;02/12/1975;MG;Mariana;Centro;35420010;60000000.00
+55666777000195;Casa de Carnes Boi na Brasa MEI;Boi na Brasa;4721101;203-8;MEI;Ativa;02/08/2024;SP;São Paulo;Vila Ema;03281010;5000.00
+66777888000196;Cooperativa Crédito Rural União;União Crédito Rural;6421900;214-3;MEDIO;Ativa;15/09/1999;RS;Passo Fundo;Centro;99010010;8000000.00
+77888999000197;Atelier Costura e Moda Criativa Ltda;Moda Criativa;1412601;206-2;MEI;Ativa;11/01/2023;SP;São Paulo;Vila Madalena;05448000;10000.00
+88999000000198;Distribuidora Produtos Limpeza Pureza Ltda;Pureza Limpeza;4649408;206-2;EPP;Ativa;07/02/2013;SP;Jacareí;Centro;12310010;2200000.00
+99000111000199;Oficina de Arte e Artesanato da Ana MEI;Arte da Ana;3211601;203-8;MEI;Ativa;05/06/2023;BA;Salvador;Rio Vermelho;41940010;5000.00
+00111222000200;Restaurante Comida Oriental Fuji Ltda;Fuji Restaurante;5611202;206-2;ME;Ativa;17/03/2022;SP;São Paulo;Aclimação;01531010;250000.00
+11222333000201;Centro Automotivo Revitalizar Ltda;Revitalizar Auto;4520007;206-2;ME;Ativa;08/11/2020;MG;Divinópolis;Centro;35500010;140000.00
+22333444000202;Imobiliária Alugar Fácil Ltda;Alugar Fácil;6821801;206-2;ME;Ativa;22/06/2021;BA;Salvador;Pituba;41810010;200000.00
+33444555000203;Fábrica Conservas Alimentícias Sul Ltda;Conservas Sul;1031701;206-2;EPP;Ativa;04/02/2015;RS;Pelotas;Centro;96010010;1850000.00
+44555666000204;Shoes Store Calçados Esportivos Ltda;Shoes Store;4782201;206-2;MEI;Ativa;18/09/2022;SP;São Caetano do Sul;Centro;09510010;25000.00
+55666777000205;Academia ao Ar Livre Fit Ltda;Fit Ar Livre;9313100;206-2;MEI;Ativa;05/01/2024;SP;São Paulo;Ibirapuera;04038000;15000.00
+66777888000206;Transporte Turístico Cidade Maravilhosa Ltda;Turismo Maravilha;4922101;206-2;ME;Ativa;12/12/2019;RJ;Rio de Janeiro;Centro;20010010;380000.00
+77888999000207;Reciclagem Lixo Zero Ltda;Lixo Zero;3831901;206-2;ME;Ativa;30/03/2020;SP;Santo André;Centro;09010010;160000.00
+88999000000208;Eletrônica Reparos Micro Ltda;Micro Reparos;9511800;206-2;MEI;Ativa;03/04/2023;MG;Governador Valadares;Centro;35010010;12000.00
+99000111000209;Estúdio Tatuagem e Body Art Ltda;Body Art;9602502;206-2;MEI;Ativa;19/07/2022;SP;Campinas;Centro;13010010;5000.00
+00111222000210;Agência Viagens Aéreas Asas Ltda;Asas Viagens;7911200;206-2;ME;Ativa;27/02/2020;SP;Guarulhos;Jardim Presidente Dutra;07170120;150000.00
+11222333000211;Lava Rápido Capricho MEI;Capricho Lava;4520005;203-8;MEI;Ativa;14/11/2023;SP;Barueri;Centro;06401010;5000.00
+22333444000212;Companhia Siderúrgica do Nordeste S/A;CSN Nordeste;2412101;205-4;GRANDE;Ativa;04/07/1982;BA;Simões Filho;Centro;43700010;55000000.00
+33444555000213;Bicicletaria Bike Forte MEI;Bike Forte;4763601;203-8;MEI;Ativa;12/08/2024;PR;Curitiba;Centro;80010010;5000.00
+44555666000214;Editora Livros e Saberes Ltda;Saberes Editora;5811500;206-2;ME;Ativa;05/10/2018;SP;São Paulo;Vila Mariana;04018000;220000.00
+55666777000215;Depósito Material Construção Martelo Forte Ltda;Martelo Forte;4744001;206-2;ME;Ativa;16/06/2020;RN;Mossoró;Centro;59610010;280000.00
+66777888000216;Serviço de Vigilância Segura Ltda;Vigilância Segura;8011101;206-2;EPP;Ativa;10/03/2011;DF;Taguatinga;Centro;72010010;1200000.00
+77888999000217;Pousada Recanto do Mar Ltda;Recanto do Mar;5510801;206-2;ME;Ativa;01/12/2019;BA;Maraú;Barra Grande;45620010;420000.00
+88999000000218;Companhia de Dança Ritmo Brasil Ltda;Ritmo Brasil;9002701;206-2;MEI;Ativa;22/05/2021;SP;São Paulo;Santa Cecília;01222010;15000.00
+99000111000219;Chaveiro 24 Horas Rápido Ltda;Chaveiro Rápido;9521501;203-8;MEI;Ativa;06/06/2023;RJ;Rio de Janeiro;Centro;20040010;5000.00
+00111222000220;Fábrica Brinquedos Alegria Infantil S/A;Alegria Infantil;3240001;205-4;MEDIO;Ativa;18/08/2001;SP;Ribeirão Preto;Distrito Industrial;14020010;12000000.00
+11222333000221;Loja Conveniência 24h do Posto MEI;Posto Conveniência;4721101;203-8;MEI;Ativa;03/03/2022;MG;Belo Horizonte;Centro;30110010;10000.00
+22333444000222;Escola Técnica Profissionalizante Futuro Ltda;Futuro Técnico;8531700;206-2;EPP;Ativa;12/04/2008;SP;São José dos Campos;Centro;12210010;2200000.00
+33444555000223;Distribuidora Frutas Tropicais Ltda;Frutas Tropicais;4631101;206-2;ME;Ativa;09/07/2020;CE;Juazeiro do Norte;Centro;63020010;320000.00
+44555666000224;Escritório Engenharia Civil Projetar Ltda;Projetar Engenharia;7111100;206-2;ME;Ativa;25/03/2021;MG;Belo Horizonte;Centro;30110010;260000.00
+55666777000225;Companhia Telecomunicações Interior S/A;Telecom Interior;6190601;205-4;MEDIO;Ativa;20/01/2002;PR;Londrina;Centro;86010010;8500000.00
+66777888000226;Feira Orgânica Verde Vida Ltda;Verde Vida Feira;4721104;206-2;MEI;Ativa;17/04/2023;SP;São Paulo;Vila Leopoldina;05319000;12000.00
+77888999000227;Clube Esportivo e Recreativo Lazer Ltda;Lazer Clube;9319101;206-2;ME;Ativa;02/10/2015;SP;Santos;Pontas da Praia;11010010;580000.00
+88999000000228;Alfaiataria sob Medida Elegância Ltda;Elegância Alfaiataria;1411801;206-2;MEI;Ativa;11/02/2024;SP;São Paulo;Campos Elíseos;01201010;8000.00
+99000111000229;Transportadora Fretes Rápidos Norte Ltda;Fretes Norte;4930201;206-2;ME;Ativa;01/08/2019;AM;Manaus;Centro;69010010;450000.00
+00111222000230;Hortifrúti da Roça MEI;Hortifrúti Roça;4721104;203-8;MEI;Ativa;05/05/2024;SP;Sorocaba;Centro;18010010;5000.00
+11222333000231;Laboratório Farmacêutico Saúde Brasil S/A;Saúde Brasil;2110601;205-4;GRANDE;Ativa;28/02/1991;RJ;Rio de Janeiro;Jacarepaguá;22753010;50000000.00
+22333444000232;Oficina Chapeação e Pintura AutoCor Ltda;AutoCor Pintura;4520003;206-2;ME;Ativa;13/11/2020;SP;São Paulo;Belenzinho;03050010;120000.00
+33444555000233;Pet Shop Banho e Tosa Animal MEI;Animal Banho;9609202;203-8;MEI;Ativa;10/10/2023;SP;São Paulo;Tatuapé;03072010;5000.00
+44555666000234;Indústria Cosméticos Beleza Natural S/A;Beleza Natural;2063101;205-4;MEDIO;Ativa;19/04/2004;SP;Diadema;Centro;09910010;9500000.00
+55666777000235;Consultoria Empresarial Estratégica Ltda;Estratégica Consult;7020400;206-2;ME;Ativa;04/07/2021;SP;São Paulo;Itaim Bibi;04538010;180000.00
+66777888000236;Banca Jornais e Revistas Central MEI;Central Jornais;4762800;203-8;MEI;Ativa;22/01/2023;SP;São Paulo;República;01005010;5000.00
+77888999000237;Refrigeração e Climatização Ar Frio Ltda;Ar Frio;4322101;206-2;MEI;Ativa;03/09/2022;SP;São Bernardo do Campo;Centro;09710010;25000.00
+88999000000238;Agroindústria Café do Cerrado Ltda;Café do Cerrado;1061901;206-2;EPP;Ativa;14/05/2013;MG;Patrocínio;Centro;38740010;2500000.00
+99000111000239;Loja Materiais Esportivos Esportes Ja Ltda;Esportes Já;4763601;206-2;ME;Ativa;27/10/2019;SP;São Paulo;Vila Olímpia;04551010;350000.00
+00111222000240;Fábrica Instrumentos Musicais Som Bom Ltda;Som Bom;3222101;206-2;ME;Ativa;06/08/2020;SP;São Paulo;Barra Funda;01140010;450000.00
+11222333000241;Serviço Funerário e Plano Saúde Familiar Ltda;Familiar Funerária;9603301;206-2;ME;Ativa;15/12/2018;RJ;Niterói;Centro;24020010;380000.00
+22333444000242;Comércio Eletrônico Moda Online Ltda;Moda Online;4790601;206-2;MEI;Ativa;12/06/2024;SP;Campinas;Centro;13010010;15000.00
+33444555000243;Clínica Fisioterapia Movimento Ltda;Movimento Fisio;8640203;206-2;ME;Ativa;01/05/2020;MG;Belo Horizonte;Centro;30110010;130000.00
+44555666000244;Horta Orgânica da Família MEI;Horta Família;0119999;203-8;MEI;Ativa;28/03/2023;SP;Atibaia;Centro;12940010;5000.00
+55666777000245;Marina e Estaleiro Navegar Ltda;Navegar Marina;3012801;206-2;MEDIO;Ativa;07/05/1999;SC;Balneário Camboriú;Centro;88330010;6500000.00
+66777888000246;Companhia Geração Eólica Vento Sul S/A;Vento Sul Eólica;3511502;205-4;GRANDE;Ativa;03/11/2001;RS;Rio Grande;Centro;96200010;50000000.00
+77888999000247;Encadernação e Cópias Papelaria Central Ltda;Central Cópias;8211300;206-2;MEI;Ativa;16/08/2022;SP;São Paulo;Sé;01001010;8000.00
+88999000000248;Cervejaria Artesanal do Vale Ltda;Cerveja do Vale;1113502;206-2;ME;Ativa;20/09/2018;MG;Cambuquira;Centro;37420010;580000.00
+99000111000249;Casa Lotérica Sorte Grande Ltda;Sorte Grande;6611801;206-2;ME;Ativa;09/11/2021;RJ;Niterói;Centro;24010010;220000.00
+00111222000250;Lanchonete Fast-Food Rápido MEI;Fast Rápido;5611203;203-8;MEI;Ativa;20/07/2024;SP;São Paulo;Centro;01001000;5000.00
+11222333000251;Fábrica Produtos Limpeza EcoLar Ltda;EcoLar;2062200;206-2;ME;Ativa;03/02/2019;SP;São Paulo;Santo Amaro;04696000;380000.00
+22333444000252;Central Alarmes Segurança Eletrônica Ltda;Central Alarmes;8021101;206-2;ME;Ativa;14/12/2020;RJ;Rio de Janeiro;Centro;20020010;200000.00
+33444555000253;Centro Treinamento Fitness Total Ltda;Fitness Total;9313100;206-2;ME;Ativa;07/05/2022;SP;São Paulo;Moema;04524010;75000.00
+44555666000254;Abatedouro e Frigorífico Boi Brasil S/A;Boi Brasil;1011201;205-4;GRANDE;Ativa;11/02/1987;MT;Colíder;Centro;78500010;35000000.00
+55666777000255;Sapataria do João Conserto MEI;Sapataria João;9521400;203-8;MEI;Ativa;02/04/2023;SP;São Paulo;Pinheiros;05422010;5000.00
+66777888000256;Fábrica de Vela e Sabão Artesanal Ltda;Vela Sabão;2040101;206-2;MEI;Ativa;18/11/2022;BA;Camaçari;Centro;42800010;10000.00
+77888999000257;Escola de Música Harmonia Ltda;Harmonia Música;9002701;206-2;MEI;Ativa;15/06/2024;SP;São Paulo;Vila Buarque;01220010;8000.00
+88999000000258;Transporte Alternativo Passageiro Cidade Ltda;Transporte Cidade;4922102;206-2;MEI;Ativa;06/09/2022;MG;Contagem;Centro;32010010;20000.00
+99000111000259;Emissora Rádio Comunitária Voz do Povo;Rádio Voz do Povo;6010101;306-9;ME;Ativa;22/02/2010;RS;Porto Alegre;Centro;90010010;50000.00
+00111222000260;Fábrica Ração Animal NutriPet Ltda;NutriPet Ração;1066000;206-2;ME;Ativa;04/05/2021;PR;Maringá;Centro;87010010;340000.00
+11222333000261;Serviço de Táxi Executivo Ltda;Táxi Executivo;4929902;206-2;MEI;Ativa;10/03/2023;SP;São Paulo;Jardins;01410010;30000.00
+22333444000262;Gráfica Digital Impressão Rápida Ltda;Imprensa Rápida;1812100;206-2;ME;Ativa;28/11/2020;SP;São José do Rio Preto;Centro;15010010;160000.00
+33444555000263;Companhia Mineração de Granito S/A;Mineradora Granito;8121000;205-4;GRANDE;Ativa;04/03/1984;ES;Cachoeiro de Itapemirim;Centro;29300010;48000000.00
+44555666000264;Doceria Caseira da Tia Maria MEI;Doceria da Tia;1093701;203-8;MEI;Ativa;15/10/2023;RJ;Nova Iguaçu;Centro;26010010;5000.00
+55666777000265;Estaleiro Construção Naval Marinha Ltda;Marinha Estaleiro;3012801;206-2;GRANDE;Ativa;12/08/1993;SC;Itajaí;Centro;88301010;22000000.00
+66777888000266;Loja Material de Construção Econômico Ltda;Econômico Construção;4744001;206-2;ME;Ativa;08/08/2017;SP;Mauá;Centro;09310010;280000.00
+77888999000267;Agência Empregos e Talentos Ltda;Talentos RH;7820500;206-2;ME;Ativa;27/01/2021;SP;São Paulo;Consolação;01301010;120000.00
+88999000000268;Borracheiro Pneus e Câmaras MEI;Pneus do Borracha;4530705;203-8;MEI;Ativa;01/04/2024;PR;Curitiba;Cajuru;82200010;5000.00
+99000111000269;Indústria Sacolas Plásticas Embalar Ltda;Embalar Plásticas;2222101;206-2;EPP;Ativa;09/12/2011;SP;São Paulo;Belenzinho;03050010;2100000.00
+00111222000270;Centro Odontológico Sorriso Perfeito Ltda;Sorriso Perfeito;8630504;206-2;ME;Ativa;22/10/2021;DF;Águas Claras;71910010;260000.00
+11222333000271;Hospedagem Domiciliar Idosos Vida Longa Ltda;Vida Longa;8711501;206-2;ME;Ativa;03/05/2018;SP;São Paulo;Saúde;04180010;190000.00
+22333444000272;Recicladora de Metais Sucata Forte Ltda;Sucata Forte;3831901;206-2;ME;Ativa;18/02/2016;SP;São Bernardo do Campo;Centro;09710010;560000.00
+33444555000273;Depósito Bebidas Festa Total MEI;Festa Total Bebidas;4635401;203-8;MEI;Ativa;05/05/2023;BA;Salvador;Liberdade;40410010;15000.00
+44555666000274;Clínica Dermatológica Pele Saudável Ltda;Pele Saudável;8630506;206-2;ME;Ativa;12/12/2022;RJ;Rio de Janeiro;Copacabana;22020010;270000.00
+55666777000275;Pastelaria do Centro MEI;Pastelaria Centro;5611202;203-8;MEI;Ativa;14/02/2023;SP;São Paulo;Sé;01001000;5000.00
+66777888000276;Fábrico Telhas e Cerâmica Norte Ltda;Telhas Norte;2320200;206-2;EPP;Ativa;10/10/2009;PA;Belém;Marco;66075010;1800000.00
+77888999000277;Viveiro Mudas e Plantas Natureza Ltda;Natureza Mudas;4622801;206-2;ME;Ativa;25/03/2021;SP;Atibaia;Centro;12940010;220000.00
+88999000000278;Revenda Veículos Usados Auto Bom Ltda;Auto Bom Veículos;4511102;206-2;ME;Ativa;14/11/2017;MG;Belo Horizonte;Centro;30110010;480000.00
+99000111000279;Açougue Qualidade Carne Boi MEI;Açougue Qualidade;4721101;203-8;MEI;Ativa;16/09/2023;SP;São Paulo;Vila Maria;02117010;5000.00
+00111222000280;Firma Individual Advocacia Dr. Silva;Dr. Silva Adv;6911701;230-5;MEI;Ativa;02/01/2023;SP;Ribeirão Preto;Centro;14010010;20000.00
+11222333000281;Agência Publicidade Propaganda Criativa Ltda;Criativa Pub;7319002;206-2;ME;Ativa;19/12/2022;RJ;Rio de Janeiro;Botafogo;22250010;150000.00
+22333444000282;Loja Artigos Festas e Decoração Alegria Ltda;Alegria Festas;4789001;206-2;MEI;Ativa;10/06/2022;SP;Campinas;Centro;13010010;20000.00
+33444555000283;Companhia Saneamento Água Viva S/A;Água Viva Saneamento;3701100;205-4;GRANDE;Ativa;05/09/1978;SP;Americana;Centro;13465010;30000000.00
+44555666000284;Hotel Econômico Estrela do Sul Ltda;Estrela do Sul Hotel;5510801;206-2;ME;Ativa;10/03/2016;MG;Poços de Caldas;Centro;37701010;520000.00
+55666777000285;Lavanderia Higieniza Tudo Ltda;Higieniza Tudo;9601702;206-2;MEI;Ativa;23/07/2023;SP;São Paulo;Vila Carrão;03432010;8000.00
+66777888000286;SP; ; ; ; ; ; ; ; ; ;

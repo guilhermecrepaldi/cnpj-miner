@@ -1,0 +1,628 @@
+codigo;secao;descricao;divisao
+0111301;A;Cultivo de arroz;01
+0111302;A;Cultivo de milho;01
+0112101;A;Cultivo de algodão herbáceo;01
+0115600;A;Cultivo de soja;01
+0119999;A;Cultivo temporário não especificado;01
+0151201;A;Pecuária - criação de bovinos;01
+0152101;A;Pecuária - criação de equinos;01
+0155501;A;Criação de aves para corte;01
+0155599;A;Criação de aves não especificada;01
+0210101;A;Produção florestal - eucalipto;02
+0220901;A;Extração de madeira em florestas nativas;02
+0311601;B;Pesca de peixes em água salgada;03
+0500100;B;Extração de carvão mineral;05
+0600001;B;Extração de petróleo e gás natural;06
+0710300;B;Extração de minério de ferro;07
+0810001;B;Extração de pedra britada;08
+0892401;B;Extração de minerais para fertilizantes;08
+0910600;B;Extração de petróleo - apoio;09
+1011201;C;Abate de bovinos;10
+1012101;C;Abate de aves;10
+1031701;C;Fabricação de conservas de frutas;10
+1051100;C;Laticínios;10
+1052000;C;Fabricação de sorvetes;10
+1053800;C;Fabricação de sorvetes e gelados comestíveis;10
+1061901;C;Beneficiamento de café;10
+1063500;C;Fabricação de farinha de mandioca;10
+1066000;C;Fabricação de alimentos para animais;10
+1071600;C;Fabricação de açúcar em bruto;10
+1091101;C;Fabricação de pães;10
+1093701;C;Fabricação de chocolates e doces;10
+1099601;C;Fabricação de massas alimentícias;10
+1113501;C;Fabricação de cervejas;11
+1113502;C;Fabricação de cervejas artesanais;11
+1122401;C;Fabricação de refrigerantes;11
+1122402;C;Fabricação de cerveja e chope;11
+1220499;C;Fabricação de cigarros;12
+1311101;C;Preparação e fiação de fibras de algodão;13
+1313800;C;Preparação e fiação de fibras têxteis;13
+1322700;C;Tecelagem de fios de algodão;13
+1330801;C;Acabamento de fios têxteis;13
+1411801;C;Confecção de roupas íntimas;14
+1412601;C;Confecção de peças de vestuário;14
+1413401;C;Confecção de roupas profissionais;14
+1414200;C;Fabricação de acessórios do vestuário;14
+1421500;C;Fabricação de meias e acessórios;14
+1521100;C;Fabricação de calçados de couro;15
+1533501;C;Fabricação de calçados de materiais sintéticos;15
+1533502;C;Fabricação de tênis e calçados esportivos;15
+1540800;C;Fabricação de partes de calçados;15
+1610201;C;Serrarias;16
+1610202;C;Beneficiamento de madeira;16
+1621800;C;Fabricação de esquadrias de madeira;16
+1622699;C;Fabricação de artefatos de madeira;16
+1623400;C;Fabricação de estruturas de madeira;16
+1710900;C;Fabricação de celulose;17
+1721400;C;Fabricação de papel;17
+1731199;C;Fabricação de embalagens de papel;17
+1742701;C;Fabricação de produtos de papel;17
+1811301;C;Impressão de jornais e revistas;18
+1812100;C;Impressão de material publicitário;18
+1813001;C;Impressão de livros;18
+1821100;C;Cópias e reprodução de materiais;18
+1921700;C;Fabricação de produtos derivados de petróleo;19
+1932200;C;Fabricação de biocombustíveis;19
+2013400;C;Fabricação de produtos petroquímicos;20
+2029100;C;Fabricação de tintas e vernizes;20
+2032100;C;Fabricação de sabões e detergentes;20
+2040101;C;Fabricação de velas e sabão artesanal;20
+2051700;C;Fabricação de defensivos agrícolas;20
+2061400;C;Fabricação de cosméticos;20
+2062200;C;Fabricação de produtos de limpeza;20
+2063101;C;Fabricação de cosméticos e perfumes;20
+2071100;C;Fabricação de medicamentos;21
+2073800;C;Fabricação de medicamentos genéricos;21
+2091600;C;Fabricação de adesivos;20
+2093200;C;Fabricação de explosivos;20
+2094101;C;Fabricação de artigos de borracha;22
+2110601;C;Fabricação de produtos farmoquímicos;21
+2121101;C;Fabricação de medicamentos alopáticos;21
+2123800;C;Fabricação de medicamentos homeopáticos;21
+2211100;C;Fabricação de pneumáticos;22
+2212100;C;Fabricação de artefatos de borracha;22
+2222101;C;Fabricação de embalagens plásticas;22
+2223401;C;Fabricação de artefatos de material plástico;22
+2229301;C;Fabricação de artefatos plásticos para construção;22
+2229399;C;Fabricação de artefatos diversos de plástico;22
+2311701;C;Fabricação de vidro plano e segurança;23
+2312501;C;Fabricação de embalagens de vidro;23
+2320200;C;Fabricação de cimento;23
+2322401;C;Fabricação de artefatos de concreto;23
+2331399;C;Fabricação de produtos cerâmicos;23
+2342701;C;Fabricação de produtos cerâmicos de revestimento;23
+2349499;C;Fabricação de abrasivos;23
+2391501;C;Aparelhamento de pedras ornamentais;23
+2392399;C;Fabricação de cal e gesso;23
+2412101;C;Produção de ferro-gusa e aço;24
+2412999;C;Produção de laminados de aço;24
+2421100;C;Fabricação de tubos de aço;24
+2431800;C;Fabricação de estruturas metálicas para construção;25
+2441502;C;Metalurgia do alumínio;24
+2443101;C;Metalurgia de metais preciosos;24
+2452100;C;Fundição de ferro e aço;24
+2453800;C;Fundição de metais não ferrosos;24
+2512800;C;Fabricação de tanques e reservatórios metálicos;25
+2513610;C;Fabricação de caldeiras;25
+2521700;C;Fabricação de esquadrias metálicas;25
+2539001;C;Serviços de usinagem;25
+2541200;C;Fabricação de artigos de cutelaria;25
+2543800;C;Fabricação de ferramentas manuais;25
+2550101;C;Fabricação de tambores metálicos;25
+2591800;C;Fabricação de embalagens metálicas;25
+2592601;C;Fabricação de artefatos estampados de metal;25
+2593499;C;Fabricação de fechaduras e ferragens;25
+2599399;C;Fabricação de artigos de metal não especificados;25
+2610800;C;Fabricação de componentes eletrônicos;26
+2621300;C;Fabricação de equipamentos de informática;26
+2631100;C;Fabricação de equipamentos de comunicação;26
+2640900;C;Fabricação de aparelhos de áudio e vídeo;26
+2651101;C;Fabricação de instrumentos de medição;26
+2651500;C;Fabricação de relógios;26
+2660902;C;Fabricação de aparelhos de raio X;26
+2671101;C;Fabricação de equipamentos ópticos;26
+2680100;C;Fabricação de mídias virgens;26
+2710401;C;Fabricação de geradores de energia;27
+2710402;C;Fabricação de transformadores;27
+2721100;C;Fabricação de pilhas e baterias;27
+2722801;C;Fabricação de cabos elétricos;27
+2731700;C;Fabricação de fios e cabos elétricos;27
+2732500;C;Fabricação de condutores elétricos;27
+2740601;C;Fabricação de lâmpadas;27
+2741401;C;Fabricação de luminárias;27
+2790201;C;Fabricação de aparelhos elétricos diversos;27
+2812700;C;Fabricação de motores e bombas;28
+2813500;C;Fabricação de equipamentos hidráulicos;28
+2821601;C;Fabricação de máquinas agrícolas;28
+2822401;C;Fabricação de máquinas para mineração;28
+2823200;C;Fabricação de máquinas para construção;28
+2824199;C;Fabricação de máquinas para processamento de alimentos;28
+2825900;C;Fabricação de máquinas para indústria têxtil;28
+2832000;C;Fabricação de máquinas para calçados;28
+2840200;C;Fabricação de máquinas-ferramenta;28
+2851800;C;Fabricação de tratores;28
+2862300;C;Fabricação de equipamentos de elevação;28
+2863400;C;Fabricação de ventiladores industriais;28
+2864000;C;Fabricação de máquinas para sistema de refrigeração;28
+2865800;C;Fabricação de equipamentos para soldagem;28
+2866600;C;Fabricação de equipamentos de separação;28
+2870100;C;Fabricação de fornos industriais;28
+2910701;C;Fabricação de automóveis;29
+2912701;C;Fabricação de caminhões;29
+2920401;C;Fabricação de motores para veículos;29
+2930101;C;Fabricação de peças automotivas;29
+2941700;C;Fabricação de bicicletas;29
+2950600;C;Fabricação de reboques;29
+3011301;C;Fabricação de embarcações;30
+3012100;C;Fabricação de barcos de recreio;30
+3012801;C;Construção de navios e embarcações;30
+3022100;C;Fabricação de locomotivas;30
+3031800;C;Fabricação de aeronaves;30
+3041500;C;Fabricação de veículos militares;30
+3091101;C;Fabricação de motocicletas;30
+3101200;C;Fabricação de móveis com predominância de madeira;31
+3102900;C;Fabricação de móveis de metal;31
+3103800;C;Fabricação de colchões;31
+3211601;C;Fabricação de artefatos para bijuterias;32
+3211602;C;Fabricação de artigos de joalheria;32
+3222101;C;Fabricação de instrumentos musicais;32
+3230200;C;Fabricação de artigos esportivos;32
+3240001;C;Fabricação de brinquedos;32
+3250701;C;Fabricação de instrumentos cirúrgicos;32
+3291400;C;Fabricação de escovas e pincéis;32
+3292201;C;Fabricação de equipamentos de segurança;32
+3299001;C;Fabricação de produtos diversos;32
+3311201;C;Manutenção de máquinas e equipamentos;33
+3313901;C;Reparação de bombas e motores;33
+3314701;C;Manutenção de equipamentos elétricos;33
+3315500;C;Reparação de equipamentos de transporte;33
+3316300;C;Manutenção de máquinas agrícolas;33
+3317101;C;Manutenção de aeronaves;33
+3319801;C;Manutenção de equipamentos de informática;33
+3321000;C;Instalação de máquinas e equipamentos;33
+3511501;D;Geração de energia elétrica - hidrelétrica;35
+3511502;D;Geração de energia eólica;35
+3511503;D;Geração de energia solar;35
+3512300;D;Transmissão de energia elétrica;35
+3513100;D;Comércio atacadista de energia elétrica;35
+3520301;D;Produção de gás natural;35
+3530100;D;Produção e distribuição de vapor;35
+3600601;E;Captação e tratamento de água;36
+3600602;E;Distribuição de água;36
+3701100;E;Gestão de redes de esgoto;37
+3702100;E;Limpeza urbana e esgoto;37
+3811400;E;Coleta de resíduos não perigosos;38
+3812200;E;Coleta de resíduos perigosos;38
+3821100;E;Tratamento de resíduos;38
+3831901;E;Reciclagem de sucatas metálicas;38
+3832700;E;Reciclagem de plásticos;38
+3839499;E;Recuperação de materiais recicláveis;38
+3900500;E;Descontaminação do solo;39
+4110700;F;Incorporadora de empreendimentos imobiliários;41
+4120400;F;Construção de edifícios;41
+4211101;F;Construção de rodovias e ferrovias;42
+4212000;F;Obras de urbanização;42
+4221901;F;Construção de obras de arte especiais;42
+4222701;F;Obras de montagem industrial;42
+4291000;F;Obras de fundações;42
+4292801;F;Montagem de estruturas metálicas;42
+4299501;F;Obras portuárias e marítimas;42
+4311801;F;Demolição e preparação do terreno;43
+4312600;F;Fundações e obras de terraplanagem;43
+4313400;F;Perfurações para água subterrânea;43
+4321500;F;Instalações elétricas;43
+4322101;F;Instalações hidráulicas e sanitárias;43
+4322300;F;Instalações de sistemas de ar condicionado;43
+4330401;F;Pintura de edifícios;43
+4330499;F;Serviços de revestimento;43
+4340101;F;Impermeabilização em obras;43
+4391101;F;Aluguel de equipamentos de construção;43
+4391600;F;Obras de alvenaria;43
+4399199;F;Serviços especializados para construção;43
+4511101;G;Comércio de veículos automotores zero km;45
+4511102;G;Comércio de veículos usados;45
+4520001;G;Manutenção e reparação de veículos;45
+4520002;G;Funilaria e pintura de veículos;45
+4520003;G;Serviços de capotaria;45
+4520004;G;Serviços de lanternagem;45
+4520005;G;Lava-rápido e serviços de estética automotiva;45
+4520007;G;Centro automotivo (troca de óleo, pneus);45
+4530701;G;Comércio de peças automotivas;45
+4530702;G;Comércio de pneus;45
+4530703;G;Comércio de acessórios automotivos;45
+4530705;G;Comércio de peças usadas para veículos;45
+4541201;G;Comércio de motocicletas;45
+4542101;G;Manutenção de motocicletas;45
+4611700;G;Representantes comerciais;46
+4612500;G;Agentes de comércio atacadista;46
+4621400;G;Comércio atacadista de café;46
+4622200;G;Comércio atacadista de soja;46
+4622801;G;Comércio atacadista de produtos agrícolas;46
+4631101;G;Comércio atacadista de frutas e verduras;46
+4632001;G;Comércio atacadista de carnes;46
+4633801;G;Comércio atacadista de laticínios;46
+4634600;G;Comércio atacadista de bebidas;46
+4635401;G;Comércio atacadista de bebidas;46
+4635402;G;Comércio atacadista de cervejas e chopes;46
+4636200;G;Comércio atacadista de produtos do fumo;46
+4637102;G;Comércio atacadista de açúcar;46
+4639701;G;Comércio atacadista de alimentos em geral;46
+4641901;G;Comércio atacadista de tecidos;46
+4642701;G;Comércio atacadista de artigos de vestuário;46
+4643501;G;Comércio atacadista de calçados;46
+4644301;G;Comércio atacadista de medicamentos;46
+4645101;G;Comércio atacadista de cosméticos;46
+4646001;G;Comércio atacadista de material de escritório;46
+4647801;G;Comércio atacadista de móveis;46
+4648601;G;Comércio atacadista de eletrodomésticos;46
+4649401;G;Comércio atacadista de artigos de limpeza;46
+4649408;G;Comércio atacadista de produtos de limpeza;46
+4651601;G;Comércio atacadista de computadores;46
+4652400;G;Comércio atacadista de componentes eletrônicos;46
+4661300;G;Comércio atacadista de máquinas agrícolas;46
+4662100;G;Comércio atacadista de máquinas para construção;46
+4664800;G;Comércio atacadista de ferramentas;46
+4665600;G;Comércio atacadista de produtos de segurança;46
+4671100;G;Comércio atacadista de cimento;46
+4672900;G;Comércio atacadista de madeira;46
+4673700;G;Comércio atacadista de tintas;46
+4674500;G;Comércio atacadista de vidros;46
+4679600;G;Comércio atacadista de materiais de construção;46
+4681801;G;Comércio atacadista de combustíveis;46
+4682600;G;Comércio atacadista de produtos químicos;46
+4683401;G;Comércio atacadista de embalagens;46
+4684201;G;Comércio atacadista de papel e papelão;46
+4685100;G;Comércio atacadista de resíduos recicláveis;46
+4686901;G;Comércio atacadista de sucatas metálicas;46
+4687799;G;Comércio atacadista especializado em outros produtos;46
+4691500;G;Comércio atacadista não especializado;46
+4711101;G;Hipermercados;47
+4711102;G;Supermercados;47
+4711301;G;Lojas de departamentos;47
+4712100;G;Comércio varejista de mercadorias em geral;47
+4713000;G;Lojas de departamentos ou magazines;47
+4721101;G;Açougues;47
+4721102;G;Peixarias;47
+4721103;G;Hortifrutigranjeiros;47
+4721104;G;Comércio varejista de produtos orgânicos;47
+4721400;G;Comércio varejista de laticínios;47
+4722901;G;Padarias e confeitarias;47
+4722902;G;Comércio varejista de doces e chocolates;47
+4723700;G;Comércio varejista de bebidas;47
+4724500;G;Comércio varejista de carnes - açougues;47
+4729699;G;Comércio varejista de produtos alimentícios;47
+4741500;G;Comércio varejista de tintas;47
+4742300;G;Comércio varejista de ferragens e ferramentas;47
+4743100;G;Comércio varejista de vidros;47
+4744001;G;Comércio varejista de materiais de construção;47
+4744099;G;Comércio varejista de material de construção;47
+4751201;G;Comércio varejista de eletrodomésticos;47
+4752100;G;Comércio varejista de equipamentos de áudio;47
+4753900;G;Comércio varejista de artigos de iluminação;47
+4754701;G;Comércio varejista de móveis;47
+4755501;G;Comércio varejista de artigos de cama e mesa;47
+4756300;G;Comércio varejista de artigos esportivos;47
+4757100;G;Comércio varejista de brinquedos;47
+4759801;G;Comércio varejista de artigos de papelaria;47
+4761001;G;Livrarias;47
+4762800;G;Comércio varejista de jornais e revistas;47
+4763601;G;Comércio varejista de bicicletas;47
+4771701;G;Farmácias;47
+4772500;G;Comércio varejista de cosméticos;47
+4773300;G;Comércio varejista de ópticas;47
+4774100;G;Comércio varejista de artigos de relojoaria;47
+4781400;G;Comércio varejista de roupas e acessórios;47
+4782201;G;Comércio varejista de calçados;47
+4783101;G;Comércio varejista de artigos de viagem;47
+4784900;G;Comércio varejista de gás liquefeito;47
+4785701;G;Comércio varejista de combustíveis para veículos;47
+4789001;G;Comércio varejista de artigos de festa;47
+4789002;G;Comércio varejista de animais vivos e artigos para animais;47
+4789099;G;Comércio varejista de outros produtos;47
+4790601;G;Comércio eletrônico;47
+4790602;G;Comércio varejista via Internet;47
+4911100;H;Transporte ferroviário de carga;49
+4911600;H;Transporte ferroviário de passageiros;49
+4922101;H;Transporte rodoviário de cargas intermunicipal;49
+4922102;H;Transporte rodoviário de passageiros;49
+4929901;H;Transporte rodoviário de cargas - mudanças;49
+4929902;H;Transporte de passageiros - táxi;49
+4930201;H;Transporte rodoviário de carga;49
+4930202;H;Transporte rodoviário de produtos perigosos;49
+4940000;H;Transporte dutoviário;49
+4950700;H;Transporte aquaviário de passageiros;49
+5011401;H;Transporte marítimo de cabotagem;50
+5021101;H;Transporte por navegação interior de carga;50
+5030101;H;Navegação de apoio marítimo;50
+5091201;H;Transporte aquaviário de carga;50
+5111100;H;Transporte aéreo de passageiros;51
+5112100;H;Transporte aéreo de carga;51
+5120000;H;Transporte aéreo não regular;51
+5212500;H;Armazenamento e depósito;52
+5213100;H;Operação de terminais de carga;52
+5222200;H;Atividades auxiliares dos transportes aéreos;52
+5223100;H;Atividades auxiliares dos transportes aquaviários;52
+5229001;H;Serviços de estacionamento;52
+5229002;H;Gestão de portos e terminais;52
+5231101;H;Operação de terminais de contêineres;52
+5232000;H;Atividades de agenciamento de carga;52
+5240901;H;Operação logística;52
+5240902;H;Serviços de entrega rápida;52
+5240999;H;Atividades auxiliares de transporte;52
+5310501;H;Serviços postais;53
+5310502;H;Atividades de malote;53
+5320201;H;Serviços de entrega;53
+5510801;I;Hotéis;55
+5510802;I;Pousadas;55
+5510803;I;Resorts;55
+5590601;I;Albergues e hostels;55
+5590699;I;Outros alojamentos turísticos;55
+5611201;I;Restaurantes;56
+5611202;I;Pizzarias e sushibares;56
+5611203;I;Lanchonetes e casas de sucos;56
+5611204;I;Bares e choperias;56
+5612100;I;Serviços de buffet;56
+5620101;I;Serviços de catering e bufê;56
+5620102;I;Buffet para eventos;56
+5620199;I;Serviços de alimentação para eventos;56
+5811500;J;Edição de livros;58
+5812301;J;Edição de jornais;58
+5813100;J;Edição de revistas;58
+5821200;J;Edição de softwares;58
+5822100;J;Edição de jogos eletrônicos;58
+5911101;J;Produção de filmes cinematográficos;59
+5912001;J;Distribuição de filmes;59
+5913800;J;Atividades de exibição cinematográfica;59
+5920100;J;Estúdios de gravação de som;59
+6010101;J;Atividades de rádio;60
+6021700;J;Atividades de televisão;60
+6110801;J;Telefonia fixa;61
+6110802;J;Telefonia móvel;61
+6120501;J;Operação de redes de dados;61
+6130200;J;Telecomunicações sem fio;61
+6141800;J;Operação de TV a cabo;61
+6190601;J;Provedores de Internet;61
+6190699;J;Outras atividades de telecomunicações;61
+6201500;J;Desenvolvimento de software sob encomenda;62
+6202300;J;Desenvolvimento e licenciamento de software;62
+6203100;J;Desenvolvimento de software customizável;62
+6204000;J;Consultoria em tecnologia da informação;62
+6209100;J;Suporte técnico em informática;62
+6311900;J;Processamento de dados e hospedagem;63
+6319400;J;Portais e provedores de conteúdo;63
+6391700;J;Agregadores de notícias online;63
+6399200;J;Outras atividades de serviços de informação;63
+6421900;K;Banco Central;64
+6422100;K;Bancos comerciais;64
+6423100;K;Bancos múltiplos;64
+6423900;K;Caixa Econômica Federal;64
+6424700;K;Bancos de investimento;64
+6431100;K;Cooperativas de crédito;64
+6432800;K;Sociedades de crédito e financiamento;64
+6433600;K;Sociedades de crédito imobiliário;64
+6435200;K;Sociedades de crédito direto;64
+6440900;K;Arrendamento mercantil (leasing);64
+6450500;K;Sociedades de capitalização;64
+6461100;K;Holdings de instituições financeiras;64
+6462001;K;Sociedades de participação;64
+6462002;K;Holdings não financeiras;64
+6470101;K;Fundos de investimento;64
+6480100;K;Atividades de securitização;64
+6491300;K;Sociedades de fomento mercantil;64
+6492101;K;Factoring;64
+6493000;K;Sociedades de investimento;64
+6499903;K;Sociedades de garantia de crédito;64
+6499905;K;Correspondentes bancários;64
+6511101;K;Seguros de vida;65
+6511102;K;Planos de saúde;65
+6512100;K;Seguros de automóveis;65
+6513801;K;Previdência complementar aberta;65
+6520100;K;Resseguros;65
+6530800;K;Previdência complementar fechada;65
+6541200;K;Planos de saúde;65
+6550100;K;Operadoras de planos de assistência à saúde;65
+6611801;K;Administração de loterias;66
+6612601;K;Corretoras de valores;66
+6613400;K;Corretoras de câmbio;66
+6619301;K;Agentes autônomos de investimento;66
+6621900;K;Avaliação de riscos e perdas;66
+6629100;K;Corretoras de seguros;66
+6630400;K;Gestão de ativos;66
+6810201;L;Compra e venda de imóveis próprios;68
+6810202;L;Aluguel de imóveis próprios;68
+6821801;L;Corretagem de imóveis;68
+6822600;L;Administração de condomínios;68
+6911701;M;Atividades jurídicas;69
+6911702;M;Advocacia;69
+6920601;M;Atividades de contabilidade;69
+6920699;M;Serviços de escritório de contabilidade;69
+7020400;M;Consultoria empresarial;70
+7020700;M;Consultoria em gestão;70
+7111100;M;Serviços de arquitetura;71
+7111200;M;Serviços de engenharia;71
+7112000;M;Serviços de geologia e prospecção;71
+7119701;M;Serviços de cartografia e topografia;71
+7120100;M;Análises técnicas e ensaios;71
+7210800;M;Pesquisa e desenvolvimento biotecnológico;72
+7211600;M;Pesquisa e desenvolvimento em ciências físicas;72
+7220700;M;Pesquisa e desenvolvimento em ciências sociais;72
+7311400;M;Agências de publicidade;73
+7312200;M;Agências de propaganda;73
+7319001;M;Agências de comunicação e marketing;73
+7319002;M;Marketing digital;73
+7320400;M;Pesquisas de mercado;73
+7410201;M;Design gráfico;74
+7410202;M;Design de interiores;74
+7410203;M;Design industrial;74
+7420001;M;Fotografia e vídeo;74
+7420002;M;Laboratórios fotográficos;74
+7430200;M;Tradução e interpretação;74
+7490101;M;Serviços de agronegócios;74
+7490102;M;Atividades de consultoria em recursos humanos;74
+7490103;M;Atividades de consultoria tributária;74
+7490104;M;Serviços de perícia técnica;74
+7490199;M;Outras atividades profissionais;74
+7500101;N;Atividades veterinárias;75
+7711000;N;Locadora de veículos;77
+7712800;N;Aluguel de máquinas e equipamentos agrícolas;77
+7713600;N;Aluguel de máquinas e equipamentos para construção;77
+7714400;N;Aluguel de equipamentos de informática;77
+7719501;N;Aluguel de bicicletas;77
+7721700;N;Aluguel de equipamentos recreativos;77
+7722500;N;Aluguel de fitas de vídeo e DVDs;77
+7723300;N;Aluguel de objetos do vestuário;77
+7729201;N;Aluguel de aparelhos eletrodomésticos;77
+7731400;N;Aluguel de máquinas e equipamentos industriais;77
+7732200;N;Aluguel de palcos e equipamentos para eventos;77
+7739001;N;Aluguel de equipamentos de transporte aquaviário;77
+7739003;N;Aluguel de equipamentos de movimentação de cargas;77
+7740300;N;Gestão de propriedade intelectual;77
+7810800;N;Agências de emprego;78
+7820500;N;Seleção e agenciamento de mão-de-obra;78
+7830200;N;Fornecimento de mão-de-obra temporária;78
+7911200;N;Agências de viagens;79
+7912100;N;Operadores turísticos;79
+7990200;N;Serviços de reservas;79
+8011101;N;Vigilância patrimonial;80
+8011102;N;Segurança privada;80
+8012900;N;Transporte de valores;80
+8021101;N;Monitoramento de alarmes;80
+8021102;N;Central de monitoramento;80
+8030100;N;Serviços de investigação;80
+8111700;N;Serviços de limpeza;81
+8112500;N;Desinfestação e dedetização;81
+8121400;N;Limpeza profissional;81
+8122200;N;Limpeza de prédios;81
+8129000;N;Serviços de limpeza industrial;81
+8130300;N;Serviços de jardinagem;81
+8211300;N;Serviços de escritório e apoio administrativo;82
+8212100;N;Copiadoras e reprografia;82
+8219901;N;Serviços de organização de feiras e congressos;82
+8220100;N;Telemarketing;82
+8230001;N;Serviços de organização de eventos;82
+8230002;N;Buffet e serviços de festas;82
+8291100;N;Agências de cobrança;82
+8292001;N;Serviços de avaliação de crédito;82
+8292002;N;Emissão de vales refeição;82
+8293800;N;Serviços de embalagem;82
+8299701;N;Serviços de cartório;82
+8299799;N;Outros serviços prestados principalmente às empresas;82
+8411600;O;Administração pública federal;84
+8412400;O;Administração pública estadual;84
+8413200;O;Administração pública municipal;84
+8414100;O;Limpeza pública;84
+8421300;O;Defesa e relações exteriores;84
+8422100;O;Justiça;84
+8423000;O;Segurança pública e defesa civil;84
+8430100;O;Seguridade social obrigatória;84
+8511200;P;Educação infantil - creche;85
+8512100;P;Educação infantil - pré-escola;85
+8513900;P;Ensino fundamental;85
+8520100;P;Ensino médio;85
+8531700;P;Ensino técnico e profissionalizante;85
+8532500;P;Cursos profissionalizantes;85
+8533300;P;Educação superior - graduação;85
+8541400;P;Educação superior - pós-graduação;85
+8542200;P;Educação profissional de nível técnico;85
+8550301;P;Educação em idiomas;85
+8550302;P;Educação artística e cultural;85
+8550303;P;Cursos de informática;85
+8550304;P;Cursos preparatórios para concursos;85
+8550399;P;Educação profissional de outros cursos;85
+8550600;P;Educação à distância;85
+8591100;P;Escolas de esportes;85
+8591299;P;Ensino de artes e cultura;85
+8592199;P;Serviços de tutoria e reforço escolar;85
+8592901;P;Ensino de música;85
+8593699;P;Outras atividades de ensino;85
+8610101;Q;Atividades de hospitais;86
+8610102;Q;Atividades de clínicas médicas;86
+8621601;Q;Serviços de pronto-socorro;86
+8622400;Q;Serviços de diagnóstico por imagem;86
+8623200;Q;Serviços de coleta de sangue;86
+8624900;Q;Serviços de fisioterapia;86
+8625100;Q;Serviços de terapia ocupacional;86
+8626900;Q;Serviços de psicologia;86
+8630501;Q;Clínicas médicas;86
+8630502;Q;Clínicas pediátricas;86
+8630503;Q;Clínicas cardiológicas;86
+8630504;Q;Clínicas odontológicas;86
+8630505;Q;Clínicas oftalmológicas;86
+8630506;Q;Clínicas dermatológicas;86
+8630507;Q;Clínicas psiquiátricas;86
+8630599;Q;Outras clínicas e consultórios;86
+8640201;Q;Atividades de bancos de sangue;86
+8640202;Q;Laboratórios de análises clínicas;86
+8640203;Q;Laboratórios de fisioterapia;86
+8650001;Q;Atividades de enfermagem;86
+8650002;Q;Atividades de nutricionistas;86
+8650003;Q;Atividades de fonoaudiologia;86
+8650004;Q;Atividades de terapia ocupacional;86
+8660700;Q;Atividades de acupuntura;86
+8670101;Q;Atividades de medicina alternativa;86
+8690901;Q;Atividades de regulação em saúde;86
+8690902;Q;Atividades de psicologia e psicanálise;86
+8690999;Q;Outras atividades de atenção à saúde;86
+8711100;Q;Atividades de assistência a idosos;87
+8711501;Q;Casas de repouso e cuidados para idosos;87
+8712300;Q;Atividades de centros de apoio social;87
+8720701;Q;Atividades de centros de reabilitação;87
+8720702;Q;Atendimento a pessoas com deficiência;87
+8730101;Q;Atividades de abrigos;87
+8730102;Q;Atividades de albergues assistenciais;87
+8800601;Q;Serviços de assistência social;88
+8800602;Q;Creches e orfanatos;88
+9001101;R;Teatros e casas de espetáculos;90
+9001901;R;Grupos de teatro;90
+9002701;R;Produção musical e artística;90
+9002702;R;Bandas e grupos musicais;90
+9003500;R;Gestão de espaços para artes cênicas;90
+9101100;R;Bibliotecas e arquivos;91
+9101500;R;Museus;91
+9102301;R;Atividades de parques zoológicos;91
+9102302;R;Atividades de jardins botânicos;91
+9199900;R;Atividades de organizações associativas;91
+9200301;R;Casas de bingo;92
+9200302;R;Exploração de jogos de azar;92
+9311500;R;Gestão de estádios e ginásios;93
+9312300;R;Clubes sociais e esportivos;93
+9313100;R;Academias de ginástica;93
+9319199;R;Atividades esportivas diversas;93
+9321200;R;Parques de diversão;93
+9329801;R;Atividades de recreação e lazer;93
+9329802;R;Parques temáticos;93
+9401100;S;Atividades de organizações religiosas;94
+9402800;S;Atividades de organizações políticas;94
+9403600;S;Atividades de organizações sindicais;94
+9412001;S;Associações empresariais;94
+9420100;S;Conselhos profissionais;94
+9430800;S;Partidos políticos;94
+9491000;S;Atividades de organizações sociais;94
+9492800;S;Atividades de organizações ambientais;94
+9493600;S;Atividades de organizações de direitos humanos;94
+9494400;S;Atividades de associações culturais;94
+9499500;S;Atividades de organizações não governamentais;94
+9511800;S;Reparação de computadores e equipamentos;95
+9511801;S;Assistência técnica de celulares;95
+9512600;S;Reparação de equipamentos de comunicação;95
+9521400;S;Reparação de calçados;95
+9521501;S;Chaveiros;95
+9521502;S;Reparação de relógios;95
+9522300;S;Reparação de joias;95
+9523100;S;Reparação de roupas;95
+9524099;S;Reparação de bicicletas;95
+9529101;S;Reparação de eletrodomésticos;95
+9529199;S;Reparação de outros objetos;95
+9601701;S;Lavanderias;96
+9601702;S;Lavanderias e tinturarias;96
+9602501;S;Cabeleireiros e salões de beleza;96
+9602502;S;Barbearias e estética;96
+9603301;S;Atividades funerárias;96
+9603302;S;Cremação e serviços funerários;96
+9604100;S;Serviços de agenciamento matrimonial;96
+9605001;S;Atividades de sauna e massagem;96
+9605002;S;Atividades de higiene pessoal;96
+9609202;S;Atividades de embelezamento e estética animal;96
+9609299;S;Serviços pessoais não especificados;96
+9700100;T;Serviços domésticos;97
+9900200;U;Organismos internacionais e outras instituições extraterritoriais;99
